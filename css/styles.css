@@ -50,6 +50,7 @@ font-family: 'pacifico', cursive;
   background:linear-gradient(0.25turn, #01199b, #ebf8e1, #f69d3c);
   height: 275px;
   padding-top: 10px;
+  border-radius: 10px;
 }
 
   hr {
@@ -121,6 +122,7 @@ footer{
   position: relative;
   text-align:center;
   color: black;
+  border-radius: 100px;
 
 }
 
