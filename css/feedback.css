@@ -1,0 +1,25 @@
+<style>
+
+body{
+	
+
+}
+.hire
+{
+	background-color: black;
+	color: white;
+}
+
+.form{
+	background: linear-gradient(45deg,red, blue);
+	font-style: italic;
+	color: black;
+
+}
+
+
+h1{
+	font-family:'Sacramento',cursive;
+	text-align: center;
+}
+</style>
