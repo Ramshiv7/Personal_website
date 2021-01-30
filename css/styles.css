@@ -3,7 +3,7 @@
 body{
   margin: 0;
   font-family: monospace;
-  
+
 }
 
 #designation-tag{
@@ -47,7 +47,7 @@ h3{
 }
 
 h4{
-font-family: 'pacifico', cursive;
+font-family: 'Source Code Pro', monospace;
 }
 
 .dark-theme{
@@ -56,12 +56,14 @@ font-family: 'pacifico', cursive;
 }
 
 .summary
-{ 
-    width: 80%;
+{
+  width: 80%;
   margin: 50px;
   padding: 80px;
-  background: linear-gradient(black,grey);
+  background: #252525;
   border-radius: 10px;
+  font-family: Source Code Pro, monospace;
+
 }
 
 .work-exp
@@ -69,9 +71,10 @@ font-family: 'pacifico', cursive;
   width: 80%;
   margin: 50px;
   padding: 80px;
-  background: linear-gradient(135deg, lightgreen 30% , pink );
+  background: #252525;
   border-radius: 10px;
-  color: black;
+  color: white;
+  font-family: Source Code Pro, monospace;
 
 
 }
@@ -80,17 +83,19 @@ font-family: 'pacifico', cursive;
   width: 80%;
   margin: 50px;
   padding: 80px;
-  background:linear-gradient(darkblue,green);
+  background: #252525;
   border-radius: 10px;
+  font-family: Source Code Pro, monospace;
 
 }
 
 .projects{
-    width: 80%;
+  width: 80%;
   margin: 50px;
   padding: 80px;
-  background: linear-gradient(#e66465, #9198e5);
+  background: #252525;
   border-radius: 10px;
+  font-family: Source Code Pro, monospace;
 
 }
 
@@ -163,14 +168,15 @@ font-family: 'pacifico', cursive;
 }
 
 footer{
-  background: linear-gradient(135deg,grey 5%,white 15%, orange 50%, darkgrey 10%);
+
   padding-bottom: 30px;
   padding-top: 20px;
   bottom: 10px;
   position: relative;
   text-align:center;
-  color: black;
+  color: white;
   border-radius: 100px;
+
 
 }
 
